@@ -29,6 +29,8 @@ Install the following packages
 pip install pytorch pytorch
 pip install unityagents
 pip install mlagents
+pip install numpy
+pip install matplotlib
 ```
 2. Download the environment from one of the links below.
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
